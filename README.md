@@ -82,6 +82,7 @@
 - [Mailgun](https://www.mailgun.com/) – Transactional and bulk email API with strong deliverability tools.
 - [Vonage API](https://developer.vonage.com/) – Communication APIs for SMS, voice, video, and authentication.
 - [Pusher](https://pusher.com/) – Real-time WebSocket API for multiplayer apps, notifications, and live features.
+- [PlaceCall](https://voygr.tech/placecall/) – API that has an AI agent place outbound phone calls to US businesses and returns the outcome, transcript, and recording.
 
 ## Social Media APIs
 
